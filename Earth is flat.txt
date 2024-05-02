@@ -1,1 +1,2 @@
-Earth is flat
+Earth is not flat, it's a sphere.
+#issue fixed
